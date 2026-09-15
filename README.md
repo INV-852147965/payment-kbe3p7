@@ -1,8 +1,10 @@
 15-Sep-2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: gibbse85@yahoo.com, sfelix956@yahoo.com
-At: 2026-09-15 22:37:53
-Id: HkGYBdtq
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: amandajbernt@comcast.net, msanders810@bellsouth.net
+At: 2026-09-15 22:38:32
+Id: lM08dwOA
